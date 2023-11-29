@@ -40,3 +40,7 @@
 </p>
 
 [![gh0str1ck's Stack Overflow | Stats](https://stats.quine.sh/gh0str1ck/stack-overflow?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=gh0str1ck)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gh0str1ck&show_icons=true&locale=en&layout=compact" alt="gh0str1ck" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gh0str1ck&" alt="gh0str1ck" /></p>
