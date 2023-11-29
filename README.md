@@ -1,19 +1,20 @@
 <h1 align="center">Hello folks 👋, I'm Mudzia Hutama</h1>
 <h3 align="center">A self-taught backend enthusiast on Node JS.</h3>
 
-- 🌱 I’m currently learning **Microservices, Event-Driven, CQRS, and Either Monad**
+- 🌱 I’m currently learning **Microservices, Event-Driven, CQRS, Domain Driven Design and Either Monad**
 
 - 💬 Ask me about **Nest JS**
 
 - 📫 How to reach me **mudzia.hutama@gmail.com**
 
+<p></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/10926941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10926941" height="30" width="40" /></a>
 <a href="https://fb.com/mudzia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mudzia" height="30" width="40" /></a>
 <a href="https://instagram.com/mudziahutama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mudziahutama" height="30" width="40" /></a>
 </p>
-
+<p></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
