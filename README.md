@@ -1,17 +1,10 @@
 <h1 align="center">Hello folks 👋, I'm Mudzia Hutama</h1>
 <h3 align="center">A self-taught backend enthusiast on Node JS.</h3>
 
-<p align="center">
 - 🌱 I’m currently learning **Microservices, Event-Driven, CQRS, Domain Driven Design and Either Monad**
-</p>
-<p align="center">
 - 💬 Ask me about **Nest JS**
-</p>
-<p align="center">
 - 📫 How to reach me **mudzia.hutama@gmail.com**
-</p>
 
-<p></p>
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -44,14 +37,10 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="80" height="80"/> </a>
 </p>
 <br>
-
-<p align="center">
-[![gh0str1ck's Stack Overflow | Stats](https://stats.quine.sh/gh0str1ck/stack-overflow?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=gh0str1ck)
-</p>
-
-<br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephenh&show_icons=true&locale=en&layout=compact" alt="gh0str1ck" /></p>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gh0str1ck&" alt="gh0str1ck" /></p>
 <br>
 <p align="center"><a href="https://www.buymeacoffee.com/gh0str1ck"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gh0str1ck" /></a></p>
+
+[![gh0str1ck's Stack Overflow | Stats](https://stats.quine.sh/gh0str1ck/stack-overflow?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=gh0str1ck)
