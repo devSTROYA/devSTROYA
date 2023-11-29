@@ -38,4 +38,4 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 </p>
 
-[![gh0str1ck's Stack Overflow | Stats](https://stats.quine.sh/gh0str1ck/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gh0str1ck)
+[![gh0str1ck's Stack Overflow | Stats](https://stats.quine.sh/gh0str1ck/stack-overflow?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=gh0str1ck)
