@@ -1,22 +1,24 @@
 <h1 align="center">Hello folks 👋, I'm Mudzia Hutama</h1>
 <h3 align="center">A self-taught backend enthusiast on Node JS.</h3>
 
+<p align="center">
 - 🌱 I’m currently learning **Microservices, Event-Driven, CQRS, Domain Driven Design and Either Monad**
 
 - 💬 Ask me about **Nest JS**
 
 - 📫 How to reach me **mudzia.hutama@gmail.com**
+</p>
 
 <p></p>
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://stackoverflow.com/users/10926941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10926941" height="70" width="80" /></a>
 <a href="https://fb.com/mudzia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mudzia" height="70" width="80" /></a>
 <a href="https://instagram.com/mudziahutama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mudziahutama" height="70" width="80" /></a>
 </p>
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="80"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80"/> </a>
@@ -44,8 +46,8 @@
 [![gh0str1ck's Stack Overflow | Stats](https://stats.quine.sh/gh0str1ck/stack-overflow?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=gh0str1ck)
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephenh&show_icons=true&locale=en&layout=compact" alt="gh0str1ck" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephenh&show_icons=true&locale=en&layout=compact" alt="gh0str1ck" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gh0str1ck&" alt="gh0str1ck" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gh0str1ck&" alt="gh0str1ck" /></p>
 <br>
-<p><a href="https://www.buymeacoffee.com/gh0str1ck"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gh0str1ck" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/gh0str1ck"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gh0str1ck" /></a></p>
