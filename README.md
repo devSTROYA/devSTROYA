@@ -1,7 +1,7 @@
 <h1 align="center">Hello folks 👋, I'm Mudzia Hutama</h1>
 <h3 align="center">A self-taught backend enthusiast on Node JS.</h3>
 
-- 🌱 I’m currently learning **Microsevices, Event-Driven, CQRS, and Either Monad**
+- 🌱 I’m currently learning **Microservices, Event-Driven, CQRS, and Either Monad**
 
 - 💬 Ask me about **Nest JS**
 
