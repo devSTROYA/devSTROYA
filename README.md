@@ -1,8 +1,8 @@
 <h1 align="center">Hello folks 👋, I'm Mudzia Hutama</h1>
 <h3 align="center">A self-taught backend enthusiast on Node JS.</h3>
 
-- 🌱 I’m currently learning **Microservices, Event-Driven, CQRS, Domain Driven Design and Either Monad**
-- 💬 Ask me about **Nest JS**
+- 🌱 I’m currently learning **CQRS and Domain Driven Design**
+- 💬 Ask me about **Coffee**
 - 📫 How to reach me **mudzia.hutama@gmail.com**
 
 <br>
