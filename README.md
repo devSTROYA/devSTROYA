@@ -1,8 +1,7 @@
 <h3 align="center">Hello folks 👋, I'm Mudzia Hutama</h3>
 <h3 align="center">A self-taught backend enthusiast on Node JS.</h3>
-<h4 align="center">🌱 I’m currently learning **CQRS and Domain Driven Design**</h4>
-<h4 align="center">💬 Ask me about **Coffee**</h4>
-<h4 align="center">📫 How to reach me **mudzia.hutama@gmail.com**</h4>
+<h4 align="center">🌱 I’m currently learning CQRS and Domain Driven Design</h4>
+<h4 align="center">📫 How to reach me mudzia.hutama@gmail.com</h4>
 
 <br>
 <h3 align="center">Connect with me:</h3>
