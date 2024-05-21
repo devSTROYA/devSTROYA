@@ -1,4 +1,4 @@
-<h1 align="center">Hello folks 👋, I'm Mudzia Hutama</h1>
+<h3 align="center">Hello folks 👋, I'm Mudzia Hutama</h3>
 <h3 align="center">A self-taught backend enthusiast on Node JS.</h3>
 
 - 🌱 I’m currently learning **CQRS and Domain Driven Design**
