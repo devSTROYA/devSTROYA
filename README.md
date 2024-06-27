@@ -30,9 +30,9 @@
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="60" height="60"/> </a>
 </p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gh0str1ck&show_icons=true&locale=en&layout=compact" alt="gh0str1ck" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devSTROYA&show_icons=true&locale=en&layout=compact" alt="devSTROYA" /></p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gh0str1ck&" alt="gh0str1ck" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devSTROYA&" alt="devSTROYA" /></p>
 <br>
 <p align="center"><a href="https://www.buymeacoffee.com/gh0str1ck"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gh0str1ck" /></a></p>
 
