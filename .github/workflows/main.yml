@@ -17,6 +17,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: devSTROYA
+          contributions_range: last-year
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
