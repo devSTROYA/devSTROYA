@@ -41,7 +41,7 @@
 <p align="center"><img align="center" src="https://github.com/devSTROYA/devSTROYA/blob/output/github-contribution-grid-snake.gif"/></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.gif" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.gif" />
+  <img alt="github-snake" src="github-snake.gif" />
 </picture>
