@@ -1,9 +1,4 @@
 <p align="center"><img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=auto&text=Hello%20folks%20👋,%20I'm%20Mudzia%20Hutama&fontAlign=52&animation=fadeIn&descAlign=0&descAlignY=0&fontSize=40&fontColor=89b4fa"/></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 <!--<h3 align="center">Hello folks 👋, I'm Mudzia Hutama</h3>-->
 <h3 align="center">A self-taught backend on Node JS.</h3>
 <h4 align="center">🌱 I’m currently learning CQRS and Domain Driven Design</h4>
@@ -40,5 +35,6 @@
 <br>
 <!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-mocha&hide_border=true&short_numbers=true" alt="devSTROYA" /></p>-->
 <br>
+![Snake animation](https://github.com/devSTROYA/devSTROYA/blob/output/github-contribution-grid-snake.svg)
 <p align="center"><a href="https://www.buymeacoffee.com/gh0str1ck"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gh0str1ck" /></a></p>
 
