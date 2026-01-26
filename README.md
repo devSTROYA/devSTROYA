@@ -1,3 +1,4 @@
+<p align="center"><img align="center" src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=auto&text=Hello%20folks%20👋,%20I'm%20Mudzia%20Hutama&fontAlign=52&animation=fadeIn&descAlign=0&descAlignY=0&fontSize=40&fontColor=89b4fa"/></p>
 <h3 align="center">Hello folks 👋, I'm Mudzia Hutama</h3>
 <h3 align="center">A self-taught backend on Node JS.</h3>
 <h4 align="center">🌱 I’m currently learning CQRS and Domain Driven Design</h4>
