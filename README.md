@@ -40,8 +40,8 @@
 
 <p align="center"><img align="center" src="https://github.com/devSTROYA/devSTROYA/blob/output/github-contribution-grid-snake-dark.gif"/></p>
 
-<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.gif" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.gif" />
   <img alt="github-snake" src="github-contribution-grid-snake.gif" />
-</picture>
+</picture>-->
