@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello folks 👋, I'm Mudzia Hutama&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-<!--<h3 align="center">Hello folks 👋, I'm Mudzia Hutama</h3>-->
+<h3 align="center">Hello folks 👋, I'm Mudzia Hutama</h3>
 <h3 align="center">A self-taught backend on Node JS.</h3>
 <h4 align="center">🌱 I’m currently learning CQRS and Domain Driven Design</h4>
 
