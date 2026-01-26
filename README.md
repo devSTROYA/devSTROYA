@@ -35,8 +35,5 @@
 <br>
 <!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-mocha&hide_border=true&short_numbers=true" alt="devSTROYA" /></p>-->
 <br>
-<div> 
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
-</div>
 <p align="center"><a href="https://www.buymeacoffee.com/gh0str1ck"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gh0str1ck" /></a></p>
 
