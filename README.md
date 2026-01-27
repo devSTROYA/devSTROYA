@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Hello%20folks%20👋,%20I'm%20Mudzia" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Hello%20folks%20👋,%20I'm%20Mudzia&color=auto" />
 </p>
 <!--<h3 align="center">Hello folks 👋, I'm Mudzia Hutama</h3>-->
 
