@@ -7,9 +7,9 @@
 - I love Catppuccin! 😼
 - Ghostty is my core tool for working with many TUI 👻
 
-<p align="center">
+<p>
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=m61smyxdo7zj30jx2kx73wqld&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=89b4fa&bar_color_cover=false&mode=light">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=m61smyxdo7zj30jx2kx73wqld&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=89b4fa&bar_color_cover=false&mode=dark">
   </a>
 </p>
 
