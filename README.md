@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Hello%20folks%20👋,%20I'm%20Mudzia&color=auto" />
 </p>
-<!--<h3 align="center">Hello folks 👋, I'm Mudzia Hutama</h3>-->
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 - A self-taught backend dev 💪
 - Currently using Typescript and learning Domain Driven Design 💻
@@ -9,12 +10,12 @@
 - I love Catppuccin! 😼
 - Ghostty is my core tool for working with many TUI 👻
 
-<br>
+<!--<br>
 <p>
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=m61smyxdo7zj30jx2kx73wqld&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=89b4fa&bar_color_cover=false&mode=dark">
   </a>
-</p>
+</p>-->
 
 <br>
 <h3>Connect with me:</h3>
@@ -26,7 +27,7 @@
 <br>
 <!--<p align ="center"><img align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages+and+Tools&titleAlign=center&fontFamily=Inter&lineCount=3&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=docker%2Cdocker%2Cauto%3Bgraphql%2Cgraphql%2CE10098%3Bpostgresql%2Cpostgres%2Cauto%3Btmux%2Ctmux%2C19BA1F%3B&line2=mongodb%2Cmongodb%2Cauto%3Bnestjs%2Cnestjs%2CEA2851%3Btypescript%2Ctypescript%2Cauto%3Bnodedotjs%2Cnodejs%2Cauto%3B&line3=postman%2Cpostman%2Cauto%3Bghostty%2Cghostty%2C3550F3%3Bgit%2Cgit%2Cauto%3Bvim%2Cvim%2C039733%3B" /></p>-->
 
-<h3><font color="#94E2D5">Languages and Tools:</font></h3>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <!--<p align="center">
   <img align="center" src="https://skillicons.dev/icons?i=aws,docker,graphql,figma,gcp,mongo,nodejs,ts,postman,git,postgres,nestjs&perline=4" />
 </p>-->
