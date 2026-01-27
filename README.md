@@ -1,4 +1,8 @@
-<p><img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=auto&text=Hello%20folks%20👋,%20I'm%20Mudzia&fontAlign=27&animation=fadeIn&descAlign=0&descAlignY=0&fontSize=40&fontColor=89b4fa"/></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+<p><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=auto&text=Hello%20folks%20👋,%20I'm%20Mudzia&fontAlign=27&animation=fadeIn&descAlign=0&descAlignY=0&fontSize=40&fontColor=89b4fa"/></p>
 <!--<h3 align="center">Hello folks 👋, I'm Mudzia Hutama</h3>-->
 
 - A self-taught backend dev 💪
@@ -56,4 +60,8 @@
     <img alt="github-snake" width="700"
       src="https://raw.githubusercontent.com/devSTROYA/devSTROYA/output/github-contribution-grid-snake.gif" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
