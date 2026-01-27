@@ -23,7 +23,7 @@
       srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/output/icons.svg" />
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/output/icons-dark.svg" />
-    <img alt="github-snake" width="700"
+    <img alt="languages"
       src="https://raw.githubusercontent.com/devSTROYA/devSTROYA/output/icons.svg" />
   </picture>
 </p>
