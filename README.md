@@ -20,11 +20,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/output/icons.svg" />
+      srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/icons.svg" />
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/output/icons-dark.svg" />
+      srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/icons-light.svg" />
     <img alt="languages"
-      src="https://raw.githubusercontent.com/devSTROYA/devSTROYA/output/icons.svg" />
+      src="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/icons.svg" />
   </picture>
 </p>
 <br>
