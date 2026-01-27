@@ -38,6 +38,7 @@
 <br>
 
 <p><a href="https://www.buymeacoffee.com/gh0str1ck"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="gh0str1ck" /></a></p>
+<br>
 
 <p>
   <picture>
