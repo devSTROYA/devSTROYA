@@ -22,7 +22,7 @@
 
 <h2> 🤙 &nbsp;Connect with me:</h2>
 
-<p align="center">
+<p>
 <a href="https://stackoverflow.com/users/10926941" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="10926941" height="50" width="60" /></a>
 <a href="https://discord.com/users/dev_stroya" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="mudzia" height="50" width="60" /></a>
 <a href="https://instagram.com/mudziahutama" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="mudziahutama" height="50" width="60" /></a>
@@ -55,7 +55,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-mocha&hide_border=true&short_numbers=true" alt="devSTROYA" /></p>-->
 
 <br>
-<p><a href="https://www.buymeacoffee.com/gh0str1ck"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="gh0str1ck" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/gh0str1ck"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="gh0str1ck" /></a></p>
 
 <br>
 <p align="center">
