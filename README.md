@@ -1,4 +1,4 @@
-<p><img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=auto&text=Hello%20folks%20👋,%20I'm%20Mudzia&fontAlign=28&animation=fadeIn&descAlign=0&descAlignY=0&fontSize=40&fontColor=89b4fa"/></p>
+<p><img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=auto&text=Hello%20folks%20👋,%20I'm%20Mudzia&fontAlign=26&animation=fadeIn&descAlign=0&descAlignY=0&fontSize=40&fontColor=89b4fa"/></p>
 <!--<h3 align="center">Hello folks 👋, I'm Mudzia Hutama</h3>-->
 
 - A self-taught backend dev 💪
