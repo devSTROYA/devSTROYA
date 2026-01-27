@@ -1,5 +1,15 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Hello%20folks!%20👋&color=0:1e66f5,100:1e66f5&fontColor=cdd6f4" />
+</p>-->
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/capsule-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/capsule-light.svg" />
+    <img alt="capsule"
+      src="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/capsule-light.svg" />
+  </picture>
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -58,7 +68,16 @@
 
 <br>
 <br>
-<p align="center"><a href="https://www.buymeacoffee.com/gh0str1ck"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="gh0str1ck" /></a></p>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/coffee-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/coffee-light.svg" />
+    <img alt="coffee"
+      src="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/coffee-light.svg" />
+  </picture>
+</p>
 
 <br>
 <br>
@@ -73,6 +92,16 @@
   </picture>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:1e66f5,100:1e66f5&height=100&section=footer"/>
+</p>-->
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/footer-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/footer-light.svg" />
+    <img alt="footer"
+      src="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/footer-light.svg" />
+  </picture>
 </p>
