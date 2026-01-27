@@ -12,6 +12,7 @@
 </p>
 <br>
 <h3 align="center">Languages and Tools:</h3>
+<p align ="center"><img align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages+and+Tools&titleAlign=center&fontFamily=Inter&lineCount=3&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=docker%2Cdocker%2Cauto%3Bgraphql%2Cgraphql%2CE10098%3Bpostgresql%2Cpostgres%2Cauto%3Btmux%2Ctmux%2C19BA1F%3B&line2=mongodb%2Cmongodb%2Cauto%3Bnestjs%2Cnestjs%2CEA2851%3Btypescript%2Ctypescript%2Cauto%3Bnodedotjs%2Cnodejs%2Cauto%3B&line3=postman%2Cpostman%2Cauto%3Bghostty%2Cghostty%2C3550F3%3Bgit%2Cgit%2Cauto%3Bvim%2Cvim%2C039733%3B" /></p>
 <p align="center"><img align="center" src="https://skillicons.dev/icons?i=aws,docker,graphql,figma,gcp,mongo,nodejs,ts,postman,git,postgres,nestjs&perline=4" /></p>
 <!--<p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> </a>
