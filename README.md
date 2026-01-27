@@ -4,8 +4,8 @@
 <h4>🌱 I’m currently using Typescript and learning Domain Driven Design</h4>
 
 <br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3>Connect with me:</h3>
+<p>
 <a href="https://stackoverflow.com/users/10926941" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="10926941" height="50" width="60" /></a>
 <a href="https://discord.com/users/dev_stroya" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="mudzia" height="50" width="60" /></a>
 <a href="https://instagram.com/mudziahutama" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="mudziahutama" height="50" width="60" /></a>
@@ -13,11 +13,11 @@
 <br>
 <!--<p align ="center"><img align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages+and+Tools&titleAlign=center&fontFamily=Inter&lineCount=3&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=docker%2Cdocker%2Cauto%3Bgraphql%2Cgraphql%2CE10098%3Bpostgresql%2Cpostgres%2Cauto%3Btmux%2Ctmux%2C19BA1F%3B&line2=mongodb%2Cmongodb%2Cauto%3Bnestjs%2Cnestjs%2CEA2851%3Btypescript%2Ctypescript%2Cauto%3Bnodedotjs%2Cnodejs%2Cauto%3B&line3=postman%2Cpostman%2Cauto%3Bghostty%2Cghostty%2C3550F3%3Bgit%2Cgit%2Cauto%3Bvim%2Cvim%2C039733%3B" /></p>-->
 
-<h3 align="center">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 <!--<p align="center">
   <img align="center" src="https://skillicons.dev/icons?i=aws,docker,graphql,figma,gcp,mongo,nodejs,ts,postman,git,postgres,nestjs&perline=4" />
 </p>-->
-<p align="center">
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/icons.svg" />
@@ -28,14 +28,14 @@
   </picture>
 </p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devSTROYA&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&bg_color=ffffff00" alt="devSTROYA" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devSTROYA&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&bg_color=ffffff00" alt="devSTROYA" /></p>
 <br>
 <!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-mocha&hide_border=true&short_numbers=true" alt="devSTROYA" /></p>-->
 <br>
 
-<p align="center"><a href="https://www.buymeacoffee.com/gh0str1ck"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="gh0str1ck" /></a></p>
+<p><a href="https://www.buymeacoffee.com/gh0str1ck"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="gh0str1ck" /></a></p>
 
-<p align="center">
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/output/github-contribution-grid-snake-dark.gif" />
