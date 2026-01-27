@@ -9,6 +9,7 @@
 - Feel free to ask about NestJS to me 🤘
 - I love Catppuccin! 😼
 - Ghostty is my core tool for working with many TUI 👻
+<br>
 
 ---
 
@@ -26,6 +27,7 @@
 <a href="https://discord.com/users/dev_stroya" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="mudzia" height="50" width="60" /></a>
 <a href="https://instagram.com/mudziahutama" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="mudziahutama" height="50" width="60" /></a>
 </p>
+<br>
 
 ---
 
@@ -48,6 +50,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devSTROYA&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&bg_color=ffffff00" alt="devSTROYA" /></p>
 <!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-mocha&hide_border=true&short_numbers=true" alt="devSTROYA" /></p>
 <br>-->
+<br>
 
 ---
 
