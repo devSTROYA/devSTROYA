@@ -20,7 +20,7 @@
   </a>
 </p>-->
 
-<h2> 🤙 &nbsp;Connect with me:</h2>
+<h2> 🤙 &nbsp;Connect with me</h2>
 
 <p>
 <a href="https://stackoverflow.com/users/10926941" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="10926941" height="50" width="60" /></a>
