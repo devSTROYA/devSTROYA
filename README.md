@@ -40,6 +40,8 @@
 
 <p align="center"><img align="center" src="https://github.com/devSTROYA/devSTROYA/blob/output/github-contribution-grid-snake-dark.gif"/></p>
 
+<p align="center"><img align="center" src="https://skillicons.dev/icons?i=aws,docker,graphql,figma,gcp,mongo,nodejs,ts,postman,git,postgres,nestjs&perline=4" /></p>
+
 <!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.gif" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.gif" />
