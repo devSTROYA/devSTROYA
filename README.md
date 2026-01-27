@@ -23,8 +23,17 @@
 
 <p align="center"><a href="https://www.buymeacoffee.com/gh0str1ck"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gh0str1ck" /></a></p>
 
-<p align="center"><img align="center" src="https://github.com/devSTROYA/devSTROYA/blob/output/github-contribution-grid-snake-dark.gif"/></p>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/output/github-contribution-grid-snake-dark.gif" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/output/github-contribution-grid-snake.gif" />
+    <img alt="github-snake" width="700"
+      src="https://raw.githubusercontent.com/devSTROYA/devSTROYA/output/github-contribution-grid-snake.gif" />
+  </picture>
+</p>
+<!--<p align="center"><img align="center" src="https://github.com/devSTROYA/devSTROYA/blob/output/github-contribution-grid-snake-dark.gif"/></p>-->
 <!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.gif" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.gif" />
