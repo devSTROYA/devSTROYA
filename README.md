@@ -17,11 +17,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=aws,docker,graphql,figma,gcp,mongo,nodejs,ts,postman,git,postgres,nestjs&perline=4" />
+      srcset="https://skillicons.dev/icons?i=aws,docker,graphql,figma,gcp,mongo,nodejs,ts,postman,git,postgres,nestjs&perline=4&theme=dark&v=1" />
     <source media="(prefers-color-scheme: light)"
-      srcset="https://skillicons.dev/icons?i=aws,docker,graphql,figma,gcp,mongo,nodejs,ts,postman,git,postgres,nestjs&perline=4&theme=light" />
-    <img alt="languages-and-tools" width="700"
-      src="https://skillicons.dev/icons?i=aws,docker,graphql,figma,gcp,mongo,nodejs,ts,postman,git,postgres,nestjs&perline=4" />
+      srcset="https://skillicons.dev/icons?i=aws,docker,graphql,figma,gcp,mongo,nodejs,ts,postman,git,postgres,nestjs&perline=4&theme=light&v=2" />
+    <img alt="languages-and-tools"
+      src="https://skillicons.dev/icons?i=aws,docker,graphql,figma,gcp,mongo,nodejs,ts,postman,git,postgres,nestjs&perline=4&theme=light" />
   </picture>
 </p>
 <!--<p align="center"><img align="center" src="https://skillicons.dev/icons?i=aws,docker,graphql,figma,gcp,mongo,nodejs,ts,postman,git,postgres,nestjs&perline=4" /></p>-->
