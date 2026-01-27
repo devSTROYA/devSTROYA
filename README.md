@@ -1,8 +1,11 @@
 <p><img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=auto&text=Hello%20folks%20👋,%20I'm%20Mudzia%20Hutama&fontAlign=36&animation=fadeIn&descAlign=0&descAlignY=0&fontSize=40&fontColor=89b4fa"/></p>
 <!--<h3 align="center">Hello folks 👋, I'm Mudzia Hutama</h3>-->
 
-- A self-taught backend dev
-- I’m currently using Typescript and learning Domain Driven Design 🌱
+- A self-taught backend dev 💪
+- Currently using Typescript and learning Domain Driven Design 💻
+- Feel free to ask about NestJS to me 🤘
+- I love Catppuccin! 😼
+- Ghostty is my core tool for working with many TUI 👻
 
 <br>
 <h3>Connect with me:</h3>
