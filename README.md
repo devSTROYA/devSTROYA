@@ -1,4 +1,4 @@
-<p><img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=auto&text=Hello%20folks%20👋,%20I'm%20Mudzia%20Hutama&fontAlign=40&animation=fadeIn&descAlign=0&descAlignY=0&fontSize=40&fontColor=89b4fa"/></p>
+<p><img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=auto&text=Hello%20folks%20👋,%20I'm%20Mudzia%20Hutama&fontAlign=30&animation=fadeIn&descAlign=0&descAlignY=0&fontSize=40&fontColor=89b4fa"/></p>
 <!--<h3 align="center">Hello folks 👋, I'm Mudzia Hutama</h3>-->
 <h3>A self-taught backend dev.</h3>
 <h4>🌱 I’m currently using Typescript and learning Domain Driven Design</h4>
