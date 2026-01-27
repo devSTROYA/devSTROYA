@@ -34,8 +34,8 @@
 <br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devSTROYA&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&bg_color=ffffff00" alt="devSTROYA" /></p>
 <br>
-<!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-mocha&hide_border=true&short_numbers=true" alt="devSTROYA" /></p>-->
-<br>
+<!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-mocha&hide_border=true&short_numbers=true" alt="devSTROYA" /></p>
+<br>-->
 
 <p><a href="https://www.buymeacoffee.com/gh0str1ck"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="gh0str1ck" /></a></p>
 <br>
