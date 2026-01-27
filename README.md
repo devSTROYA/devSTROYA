@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Hello%20folks!%20👋&color=0:1e66f5,100:1e66f5" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Hello%20folks!%20👋&color=0:1e66f5,100:1e66f5&fontColor=ffffff" />
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -74,5 +74,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:1e66f5,100:1e66f5&height=100&section=footer"/>
 </p>
