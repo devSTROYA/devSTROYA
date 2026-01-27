@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Hello%20folks%20👋,%20I'm%20Mudzia" />
 </p>
-
-<p><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=auto&text=Hello%20folks%20👋,%20I'm%20Mudzia&fontAlign=27&animation=fadeIn&descAlign=0&descAlignY=0&fontSize=40&fontColor=89b4fa"/></p>
 <!--<h3 align="center">Hello folks 👋, I'm Mudzia Hutama</h3>-->
 
 - A self-taught backend dev 💪
