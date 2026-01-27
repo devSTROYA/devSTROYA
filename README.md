@@ -1,7 +1,4 @@
-<!--<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Hello%20folks!%20👋&color=0:1e66f5,100:1e66f5&fontColor=cdd6f4" />
-</p>-->
-<p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/capsule-dark.svg" />
@@ -47,7 +44,7 @@
 <!--<p align="center">
   <img align="center" src="https://skillicons.dev/icons?i=aws,docker,graphql,figma,gcp,mongo,nodejs,ts,postman,git,postgres,nestjs&perline=4" />
 </p>-->
-<p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/icons.svg" />
@@ -68,7 +65,7 @@
 
 <br>
 <br>
-<p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/coffee-dark.svg" />
@@ -92,10 +89,7 @@
   </picture>
 </p>
 
-<!--<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:1e66f5,100:1e66f5&height=100&section=footer"/>
-</p>-->
-<p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/footer-dark.svg" />
