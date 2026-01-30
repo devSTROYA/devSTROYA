@@ -59,9 +59,15 @@
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devSTROYA&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&bg_color=ffffff00" alt="devSTROYA" /></p>
 
+<!--<br>
+<br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-mocha&hide_border=true&short_numbers=true" alt="devSTROYA" /></p>-->
+
 <br>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-mocha&hide_border=true&short_numbers=true" alt="devSTROYA" /></p>
+<p align="center">
+  <img src="https://github-stackoverflow-readme.vercel.app/?userId=10926941"
+</p>
 
 <br>
 <br>
