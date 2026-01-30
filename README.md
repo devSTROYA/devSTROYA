@@ -66,7 +66,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=10926941?theme=dark"
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=10926941&theme=dark"
 </p>
 
 <br>
