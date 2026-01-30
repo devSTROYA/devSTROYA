@@ -72,6 +72,7 @@
 <br>
 <br>
 <p align="center">
+  <a href="https://www.buymeacoffee.com/gh0str1ck"> 
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/coffee-dark.svg" />
