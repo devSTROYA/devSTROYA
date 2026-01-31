@@ -63,11 +63,11 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-mocha&hide_border=true&short_numbers=true" alt="devSTROYA" /></p>-->
 
-<br>
+<!--<br>
 <br>
 <p align="center">
   <img src="https://github-readme-stackoverflow.vercel.app/?userID=10926941&theme=dark"
-</p>
+</p>-->
 
 <br>
 <br>
