@@ -61,7 +61,7 @@
 
 <br>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-mocha&hide_border=true&short_numbers=true" alt="devSTROYA" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-mocha&hide_border=false&short_numbers=true" alt="devSTROYA" /></p>
 
 <!--<br>
 <br>
