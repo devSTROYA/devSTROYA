@@ -16,7 +16,7 @@
 - Feel free to ask about NestJS to me 🤘
 - I love Catppuccin! 😼
 - Ghostty is my core tool for working with many TUI 👻
-<br>
+  <br>
 
 ---
 
@@ -29,7 +29,7 @@
 
 <h2> 🤙 &nbsp;Connect with me</h2>
 
-<p>
+<p align="center">
 <a href="https://stackoverflow.com/users/10926941" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="10926941" height="50" width="60" /></a>
 <a href="https://discord.com/users/dev_stroya" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="mudzia" height="50" width="60" /></a>
 <a href="https://instagram.com/mudziahutama" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="mudziahutama" height="50" width="60" /></a>
