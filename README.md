@@ -57,21 +57,26 @@
 
 <br>
 <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devSTROYA&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&bg_color=ffffff00" alt="devSTROYA" /></p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devSTROYA&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&bg_color=00000000" />
     <source media="(prefers-color-scheme: light)"
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devSTROYA&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte&bg_color=00000000" />
-    <img alt="coffee"
-      src="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/coffee-light.svg" />
   </picture>
 </p>
 
 <br>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-mocha&hide_border=false&short_numbers=true&background=ffffff00" alt="devSTROYA" /></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-mocha&hide_border=false&short_numbers=true&background=ffffff00" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-mocha&hide_border=false&short_numbers=true&background=ffffff00" />
+  </picture>
+</p>
 
 <!--<br>
 <br>
