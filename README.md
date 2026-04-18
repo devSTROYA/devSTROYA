@@ -47,11 +47,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/icons.svg" />
+      srcset="https://skillicons.dev/icons?i=apple,aws,bash,cloudflare,css,devto,docker,dynamodb,express,figma,gcp,git,github,graphql,js,kubernetes,mongodb,mysql,neovim,nestjs,nodejs,npm,notion,pnpm,postgres,actix,prisma,redis,typescript,rust&theme=dark" />
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/icons-light.svg" />
-    <img alt="languages"
-      src="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/icons.svg" />
+      srcset="[https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/icons-light.svg](https://skillicons.dev/icons?i=apple,aws,bash,cloudflare,css,devto,docker,dynamodb,express,figma,gcp,git,github,graphql,js,kubernetes,mongodb,mysql,neovim,nestjs,nodejs,npm,notion,pnpm,postgres,actix,prisma,redis,typescript,rust&theme=light)" />
+    <img alt="skills"
+      src="https://skillicons.dev/icons?i=apple,aws,bash,cloudflare,css,devto,docker,dynamodb,express,figma,gcp,git,github,graphql,js,kubernetes,mongodb,mysql,neovim,nestjs,nodejs,npm,notion,pnpm,postgres,actix,prisma,redis,typescript,rust&theme=light" />
   </picture>
 </p>
 
