@@ -70,7 +70,6 @@
 
 <br>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-mocha&hide_border=false&short_numbers=true&background=ffffff00" alt="devSTROYA" /></p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
