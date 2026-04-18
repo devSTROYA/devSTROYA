@@ -58,6 +58,16 @@
 <br>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devSTROYA&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&bg_color=ffffff00" alt="devSTROYA" /></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devSTROYA&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devSTROYA&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte" />
+    <img alt="coffee"
+      src="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/coffee-light.svg" />
+  </picture>
+</p>
 
 <br>
 <br>
