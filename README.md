@@ -30,13 +30,17 @@
 <h2> 🤙 &nbsp;Connect with me</h2>
 
 <p>
-  <a href="https://stackoverflow.com/users/10926941" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="10926941" height="50" width="60" /></a>
+  <a href="https://stackoverflow.com/users/10926941">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="50" />
+  </a>
+  <a href="https://discord.com/users/dev_stroya">
+    <img src="https://skillicons.dev/icons?i=discord" height="50" />
+  </a>
   <br>
-  <a href="https://discord.com/users/dev_stroya" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="mudzia" height="50" width="60" /></a>
-  <br>
-  <a href="https://instagram.com/mudziahutama" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="mudziahutama" height="50" width="60" /></a>
+  <a href="https://instagram.com/mudziahutama">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  </a>
 </p>
-<br>
 
 ---
 
