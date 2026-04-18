@@ -49,11 +49,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="[https://skillicons.dev/icons?i=apple,aws,bash,cloudflare,css,devto,docker,dynamodb,express,figma,gcp,git,github,graphql,js,kubernetes,mongodb,mysql,neovim,nestjs,nodejs,npm,notion,pnpm,postgres,actix,prisma,redis,typescript,rust&theme=dark](https://skillicons.dev/icons?i=apple,aws,bash,cloudflare,css,devto,docker,dynamodb,express,figma,gcp,git,github,graphql,js,kubernetes,mongodb,mysql,neovim,nestjs,nodejs,npm,notion,pnpm,postgres,actix,prisma,redis,typescript,rust&theme=dark)" />
+      srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/icons.svg" />
     <source media="(prefers-color-scheme: light)"
-      srcset="[https://skillicons.dev/icons?i=apple,aws,bash,cloudflare,css,devto,docker,dynamodb,express,figma,gcp,git,github,graphql,js,kubernetes,mongodb,mysql,neovim,nestjs,nodejs,npm,notion,pnpm,postgres,actix,prisma,redis,typescript,rust&theme=light](https://skillicons.dev/icons?i=apple,aws,bash,cloudflare,css,devto,docker,dynamodb,express,figma,gcp,git,github,graphql,js,kubernetes,mongodb,mysql,neovim,nestjs,nodejs,npm,notion,pnpm,postgres,actix,prisma,redis,typescript,rust&theme=light)" />
+      srcset="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/icons-light.svg" />
     <img alt="skills"
-      src="[https://skillicons.dev/icons?i=apple,aws,bash,cloudflare,css,devto,docker,dynamodb,express,figma,gcp,git,github,graphql,js,kubernetes,mongodb,mysql,neovim,nestjs,nodejs,npm,notion,pnpm,postgres,actix,prisma,redis,typescript,rust&theme=light](https://skillicons.dev/icons?i=apple,aws,bash,cloudflare,css,devto,docker,dynamodb,express,figma,gcp,git,github,graphql,js,kubernetes,mongodb,mysql,neovim,nestjs,nodejs,npm,notion,pnpm,postgres,actix,prisma,redis,typescript,rust&theme=light)" />
+      src="https://raw.githubusercontent.com/devSTROYA/devSTROYA/main/icons-light.svg" />
   </picture>
 </p>
 
