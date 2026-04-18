@@ -47,7 +47,7 @@
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <!--<p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=aws,docker,graphql,figma,gcp,mongo,nodejs,ts,postman,git,postgres,nestjs&perline=4" />
+  <img align="center" src="https://skillicons.dev/icons?i=actix,apple,aws,bash,cloudflare,css,devto,docker,dynamodb,express,figma,gcp,git,github,graphql,js,kubernetes,mongo,mysql,neovim,nestjs,nodejs,npm,notion,pnpm,postgres,prisma,redis,rust,ts&perline=10&theme=light" />
 </p>-->
 <p align="center">
   <picture>
