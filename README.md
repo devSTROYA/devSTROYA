@@ -63,6 +63,8 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devSTROYA&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&bg_color=00000000" />
     <source media="(prefers-color-scheme: light)"
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devSTROYA&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte&bg_color=00000000" />
+    <img alt="top-langs"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=devSTROYA&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte&bg_color=00000000" />
   </picture>
 </p>
 
@@ -74,7 +76,9 @@
     <source media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-mocha&hide_border=false&short_numbers=true&background=ffffff00" />
     <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-mocha&hide_border=false&short_numbers=true&background=ffffff00" />
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-latte&hide_border=false&short_numbers=true&background=ffffff00" />
+    <img alt="github-streaks"
+      src="https://github-readme-streak-stats.herokuapp.com?user=devSTROYA&theme=catppuccin-mocha&hide_border=false&short_numbers=true&background=ffffff00" />
   </picture>
 </p>
 
