@@ -29,7 +29,7 @@
 
 <h2> 🤙 &nbsp;Connect with me</h2>
 
-<p>
+<p align="center">
   <a href="https://stackoverflow.com/users/10926941">
     <img src="https://skillicons.dev/icons?i=stackoverflow" height="50" />
   </a>
