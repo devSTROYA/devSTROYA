@@ -36,7 +36,6 @@
   <a href="https://discord.com/users/dev_stroya">
     <img src="https://skillicons.dev/icons?i=discord" height="50" />
   </a>
-  <br>
   <a href="https://instagram.com/mudziahutama">
     <img src="https://skillicons.dev/icons?i=instagram" height="50" />
   </a>
